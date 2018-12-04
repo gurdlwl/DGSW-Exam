@@ -164,7 +164,7 @@
   echo "MEMO :".nl2br($_POST["nemo"]);
   ```
 
-* 히튼타입 데이터 전송
+* 히든타입 데이터 전송
 
   ```html
   <input type="hidden" name="userId" value="hiddenvalue">
