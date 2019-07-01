@@ -191,7 +191,7 @@ private Long id; // id bigint not null primary key
 
 ### 4. @GeneratedValue
 
-해당 컬럼를 auto_increment를 설정합니다.
+해당 컬럼의 auto_increment를 설정합니다.
 
 기본적으로 mysql의 모든 테이블의 auto_increment값을 공유합니다.
 
